@@ -1,0 +1,3 @@
+texto = "Ponha seu texto aqui"
+texto_sem_espaço = texto.replace(" ","")
+print(len(texto_sem_espaço))
